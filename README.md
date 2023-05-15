@@ -1,3 +1,3 @@
-# Calculator-Program
+# Calculator-Application
 
-A simple calculator 
+A simple terminal based calculator application.
