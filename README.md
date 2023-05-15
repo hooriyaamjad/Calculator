@@ -1,3 +1,3 @@
-# Calculator-Assignment
+# Calculator-Program
 
 A simple calculator 
